@@ -24,10 +24,24 @@ Complete documentation for this API, including all available endpoints, required
 1. Clone this repository to your local machine.
 2. Install the required dependencies using the provided `requirements.txt` file:
 
-```bash
 # On Windows
 python -m pip install -r requirements.txt
 
 # On macOS/Linux
 pip3 install -r requirements.txt
+
+pip3 install -r requirements.txt
+
+3. Run the Flask application:
+
+# On Windows
+python main.py
+
+# On macOS/Linux
+python3 main.py
+
+
+
+
+The local server will start on http://127.0.0.1:5000/. The SQLite database (cafes.db) will automatically generate upon the first run if it does not already exist.
 
