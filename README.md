@@ -21,18 +21,16 @@ Complete documentation for this API, including all available endpoints, required
 
 ## ⚙️ Installation & Setup
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies using the provided `requirements.txt` file:
+#1. Clone this repository to your local machine.
+#2. Install the required dependencies using the provided `requirements.txt` file:
 
-# On Windows
+On Windows
 python -m pip install -r requirements.txt
 
-# On macOS/Linux
+On macOS/Linux
 pip3 install -r requirements.txt
 
-pip3 install -r requirements.txt
-
-3. Run the Flask application:
+#3. Run the Flask application:
 
 # On Windows
 python main.py
