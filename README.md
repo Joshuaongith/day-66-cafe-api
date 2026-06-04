@@ -1,11 +1,11 @@
 # Cafe & Wifi REST API ☕
 
-🏆 Credits
-Developer: Joshua Uzochukwu
+🏆 **Credits**
 
-Curriculum: Developed as the Project for Day 66 of the "100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu.
+* **Developer:** Joshua Uzochukwu
+* **Curriculum:** Developed as the Project for Day 66 of the "100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu.
 
-A fully functional RESTful API built to manage a database of cafes, workspaces, and coffee shops. 
+A fully functional RESTful API built to manage a database of cafes, workspaces, and coffee shops.
 
 ## 📖 API Documentation
 
@@ -21,25 +21,16 @@ Complete documentation for this API, including all available endpoints, required
 
 ## ⚙️ Installation & Setup
 
-#1. Clone this repository to your local machine.
-#2. Install the required dependencies using the provided `requirements.txt` file:
-
-On Windows
+1. **Clone this repository to your local machine.**
+2. **Install the required dependencies using the provided requirements.txt file:**
+**On Windows:**
 python -m pip install -r requirements.txt
-
-On macOS/Linux
+**On macOS/Linux:**
 pip3 install -r requirements.txt
-
-#3. Run the Flask application:
-
-# On Windows
+3. **Run the Flask application:**
+**On Windows:**
 python main.py
-
-# On macOS/Linux
+**On macOS/Linux:**
 python3 main.py
 
-
-
-
-The local server will start on http://127.0.0.1:5000/. The SQLite database (cafes.db) will automatically generate upon the first run if it does not already exist.
-
+*The local server will start on [http://127.0.0.1:5000/](http://127.0.0.1:5000/). The SQLite database (cafes.db) will automatically generate upon the first run if it does not already exist.*
